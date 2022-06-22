@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  :tw-26a1: About Me:
 - I`m an Acturial Sciences Bachelor from Mexico.<br>
 - I have specialized my career in topics suchs as: Finance, Data Science,<br>Statistics and Risk Management.<br>
 - I believe always in the change, in order to improve all my <br>processes. <br>
