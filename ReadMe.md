@@ -24,9 +24,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EthanLeonel&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogm123&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-</div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogm123&cover_image=true&theme=default)]{ width="800" height="600" style="display: block; margin: 0 auto" }
+
 ---
 [![](https://visitcount.itsvg.in/api?id=EthanLeonel&icon=0&color=0)](https://visitcount.itsvg.in)
 
