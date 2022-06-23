@@ -9,9 +9,11 @@
 - I enjoy the sports and my dogs.
 - I love listening music: 
 
-<p align="center">
-    ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogm123&cover_image=true&theme=default)
-</p>
+<h1 align="center">
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogm123&cover_image=true&theme=default)
+</h1>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-leonel-garcía-melena-6a416a200) 
