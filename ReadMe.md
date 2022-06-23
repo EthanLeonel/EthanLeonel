@@ -9,9 +9,7 @@
 - I enjoy the sports and my dogs.
 - I love listening music: 
 
-<h1 align="center">
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogm123&cover_image=true&theme=default)
-</h1>
 
 
 
