@@ -7,6 +7,10 @@
 - I have specialized my career in topics suchs as: Finance, Data Science,<br>Statistics and Risk Management.<br>
 - I believe always in the change, in order to improve all my <br>processes. <br>
 - I enjoy the sports and my dogs.
+- I love listening music: 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogm123&cover_image=true&theme=default)]
+
 
 
 ## 🌐 Socials:
@@ -23,9 +27,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EthanLeonel&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogm123&cover_image=true&theme=default)]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EthanLeonel&icon=0&color=0)](https://visitcount.itsvg.in)
