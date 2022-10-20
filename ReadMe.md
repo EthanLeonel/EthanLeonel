@@ -9,8 +9,7 @@
 - I enjoy the sports and my dogs.
 - I love listening music: 
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogm123&cover_image=true&theme=default)
-
+[![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000731.df8b76969d3149c3baf402dca96286f3.0028)](https://github.com/rayriffy/apple-music-github-profile)
 
 
 ## 🌐 Socials:
